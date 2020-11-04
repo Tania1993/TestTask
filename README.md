@@ -12,7 +12,7 @@ Run:
 
 
 
-Task 2 - Adding items to the card
+_Task 2 - Adding items to the card_
 
 Guest user goes to a favorite e-shop, navigates to some category and adds two
   most expensive items to the shopping cart from this category
