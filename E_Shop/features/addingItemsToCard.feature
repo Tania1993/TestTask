@@ -6,9 +6,6 @@ Feature: adding items to the card
 
   Scenario Outline: open the e-shop and adding expensive items to a card
     Given guest user opens the e-shop with <url>
-    Examples:
-      | url                    |
-      | https://makeup.com.ua/ |
     When user selects a category
       | category      |
       | Health & Care |
@@ -16,3 +13,6 @@ Feature: adding items to the card
     Then user adds <count> most expensive items to the card
       | count |
       | 2     |
+    Examples:
+      | url                    |
+      | https://makeup.com.ua/ |
