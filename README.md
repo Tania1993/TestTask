@@ -19,6 +19,10 @@ Guest user goes to a favorite e-shop, navigates to some category and adds two
 
 Run:
 
+`python install selenium`
+
+`pip install -U behave`
+
 `cd <root_project_directory>/E_Shop`
 
 `behave /features/addingItemsToCard.feature`
