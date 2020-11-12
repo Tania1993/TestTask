@@ -16,3 +16,4 @@ Feature: adding items to the card
     Examples:
       | url                    |
       | https://makeup.com.ua/ |
+
